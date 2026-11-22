@@ -1,0 +1,27 @@
+4 4 A I:grid alpha 2.2196 gamma 24.35  m0 11.0 need m >= 2.42
+4 4 A I:end alpha 2.7195 gamma 18.77  m0 6.9 need m >= 2.21
+4 4 A I:end1 alpha 2.7195 gamma 29.55  m0 10.9 need m >= 2.42
+4 4 A I:large alpha 3.7310 gamma 11.54  m0 3.1 need m >= 2.22
+4 4 A I:large1 alpha 3.7310 gamma 22.32  m0 6.0 need m >= 2.47
+4 4 A S:grid alpha 2.2196 gamma 26.47  m0 11.9 need m >= 2.42
+4 4 A S:end alpha 4.1047 gamma 20.61  m0 5.0 need m >= 2.21
+4 4 A S:end1 alpha 4.1047 gamma 26.33  m0 6.4 need m >= 2.42
+4 4 A S:large alpha 3.6501 gamma 13.79  m0 3.8 need m >= 2.27
+4 4 A S:large1 alpha 3.6501 gamma 19.51  m0 5.3 need m >= 2.52
+4 4 A H:grid alpha 2.2196 gamma 25.44  m0 11.5 need m >= 2.42
+4 4 A H:end alpha 3.6479 gamma 19.51  m0 5.3 need m >= 2.21
+4 4 A H:end1 alpha 3.6479 gamma 27.05  m0 7.4 need m >= 2.42
+4 4 A H:large alpha 3.7040 gamma 12.58  m0 3.4 need m >= 2.24
+4 4 A H:large1 alpha 3.7040 gamma 20.12  m0 5.4 need m >= 2.49
+4 2 B all alpha 1.9565 gamma 37.34  m0 19.1 
+4 2 A I:grid alpha 3.3480 gamma 26.40  m0 7.9 need m >= 1.70
+4 2 A I:end alpha 3.8479 gamma 21.11  m0 5.5 need m >= 1.53
+4 2 A I:end1 alpha 3.8479 gamma 31.56  m0 8.2 need m >= 1.70
+4 2 A I:large alpha 3.5125 gamma 12.10  m0 3.4 need m >= 1.57
+4 2 A I:large1 alpha 3.5125 gamma 22.55  m0 6.4 need m >= 1.83
+4 2 A S:grid alpha 3.3480 gamma 27.96  m0 8.4 need m >= 1.70
+4 2 A S:end alpha 4.7763 gamma 22.33  m0 4.7 need m >= 1.53
+4 2 A S:end1 alpha 4.7763 gamma 29.54  m0 6.2 need m >= 1.70
+4 2 A S:large alpha 3.4347 gamma 12.45  m0 3.6 need m >= 1.60
+4 2 A S:large1 alpha 3.4347 gamma 19.66  m0 5.7 need m >= 1.87
+N 4 M1 101 all alpha > 0: True  threshold 19.083479206158064  OK

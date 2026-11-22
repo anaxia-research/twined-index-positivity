@@ -1,0 +1,7 @@
+2 I boxes 240 s_end 1.0983 max total 4.3172 max rem 3.97e-10 min tr 0.0500 maxD 2571.0 terms 17001175 time 9.4
+2 S boxes 860 s_end 2.0293 max total 6.1775 max rem 4.03e-10 min tr 0.1000 maxD 2571.0 terms 123079403 time 33.5
+3 I boxes 240 s_end 1.0983 max total 4.3172 max rem 3.97e-10 min tr 0.0500 maxD 2571.0 terms 17001175 time 9.9
+3 S boxes 1180 s_end 2.7857 max total 7.2342 max rem 4.07e-10 min tr 0.1267 maxD 2571.0 terms 255279346 time 54.5
+4 I boxes 240 s_end 1.0983 max total 4.3172 max rem 3.97e-10 min tr 0.0500 maxD 2571.0 terms 17001175 time 9.7
+4 S boxes 1400 s_end 3.4637 max total 7.4027 max rem 4.10e-10 min tr 0.1031 maxD 2571.0 terms 405984577 time 71.6
+4 H boxes 860 s_end 2.0293 max total 6.1775 max rem 4.03e-10 min tr 0.1000 maxD 2571.0 terms 123079403 time 36.7
