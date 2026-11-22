@@ -1,0 +1,12 @@
+2 2 B all alpha 1.9565 gamma 36.24  m0 18.5 
+2 2 A I:grid alpha 3.3480 gamma 25.30  m0 7.6 need m >= 1.70
+2 2 A I:end alpha 3.8479 gamma 20.01  m0 5.2 need m >= 1.53
+2 2 A I:end1 alpha 3.8479 gamma 30.47  m0 7.9 need m >= 1.70
+2 2 A I:large alpha 3.5125 gamma 11.00  m0 3.1 need m >= 1.57
+2 2 A I:large1 alpha 3.5125 gamma 21.45  m0 6.1 need m >= 1.83
+2 2 A S:grid alpha 3.3480 gamma 26.87  m0 8.0 need m >= 1.70
+2 2 A S:end alpha 4.7763 gamma 21.23  m0 4.4 need m >= 1.53
+2 2 A S:end1 alpha 4.7763 gamma 28.44  m0 6.0 need m >= 1.70
+2 2 A S:large alpha 3.4347 gamma 11.35  m0 3.3 need m >= 1.60
+2 2 A S:large1 alpha 3.4347 gamma 18.57  m0 5.4 need m >= 1.87
+N 2 M1 101 all alpha > 0: True  threshold 18.521948422689565  OK
